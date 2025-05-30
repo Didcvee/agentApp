@@ -27,7 +27,6 @@ git clone `https://github.com/Didcvee/agentApp`
 ```bash
 dotnet run
 ```
-
 ---
 <div align="center">
   <sub>Built with ❤️ for learning purposes</sub>
