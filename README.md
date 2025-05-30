@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [[url-репозитория]](https://github.com/Didcvee/agentApp)
+git clone `https://github.com/Didcvee/agentApp`
 ```
 
 2. Откройте решение в Visual Studio/Rider
